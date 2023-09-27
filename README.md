@@ -1,5 +1,3 @@
-# Quiz
- 
 # Jogo de Quiz com Interface Tkinter e Utilização de API
 
 Este projeto é um jogo de quiz que foi implementado utilizando a interface gráfica Tkinter em Python e integração com uma API para fornecer perguntas e respostas dinâmicas para os jogadores. O jogo oferece uma série de perguntas com opções de múltipla escolha e os jogadores podem selecionar suas respostas.
